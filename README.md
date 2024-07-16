@@ -8,14 +8,12 @@
 
 ### Connect with me :
 
-<div width="200" style="display: flex; flex-direction:row;justify-content: space-evenly;">
-  <a href="https://www.linkedin.com/in/rémi-deschamps" style="margin-right: 20px;">
-    <img src="./img/linkedIn.svg" alt="LinkedIn" width="40">
-  </a>
-  <a href="https://www.facebook.com/remi.deschamps.9">
-    <img src="./img/facebook.jpg" alt="Facebook" width="40">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/rémi-deschamps">
+  <img src="./img/linkedIn.svg" alt="LinkedIn" width="40">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adding spaces here -->
+<a href="https://www.facebook.com/remi.deschamps.9">
+  <img src="./img/facebook.jpg" alt="Facebook" width="40">
+</a>
 
   ---
   
