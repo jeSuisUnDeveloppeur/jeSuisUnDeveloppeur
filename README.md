@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
   ### Connect with me :
 
-  <p align="left">
+  <p align="left" style="margin-left:50px;">
     <a href="https://www.linkedin.com/in/rémi-deschamps">
       <img src="./img/linkedIn.svg" alt="contact linked in" style="margin-right: 30px; width: 40px;">
     </a>
