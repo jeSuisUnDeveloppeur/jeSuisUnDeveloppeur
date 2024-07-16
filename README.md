@@ -8,7 +8,7 @@
 
 ### Connect with me :
 
-<table>
+<table border=none>
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/rémi-deschamps">
