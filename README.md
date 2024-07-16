@@ -9,11 +9,11 @@
 ### Connect with me :
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rémi-deschamps" style="margin-right: 20px;">
-    <img src="./img/linkedIn.svg" alt="contact linked in" width="100">
+  <a href="https://www.linkedin.com/in/rémi-deschamps" style="margin-right: 20;">
+    <img src="./img/linkedIn.svg" alt="contact linked in" width="60">
   </a>
-  <a href="https://www.facebook.com/remi.deschamps.9" style="margin-left: 20px;">
-    <img src="./img/facebook.jpg" alt="contact facebook" width="40">
+  <a href="https://www.facebook.com/remi.deschamps.9" style="margin-left: 20;">
+    <img src="./img/facebook.jpg" alt="contact facebook" width="60">
   </a>
 </div>
 
