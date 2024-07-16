@@ -5,6 +5,8 @@
 - 📫 How to reach me remideschamps2662@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
+  ### Connect with me :
+  [![img_contact](./
 
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
