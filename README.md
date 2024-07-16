@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
   ### Connect with me :
-  [![img_contact](./img/linkedIn.jpg)
+  [![img_contact](./img/linkedIn.jpg)]
 
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
