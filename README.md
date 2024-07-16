@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
   ### Connect with me :
-  [![img_contact_linkedIn]![](./img/linkedIn.jpg){width = 200; height = 200}](https://www.linkedin.com/in/rémi-deschamps)
+  [![img_contact_linkedIn](./img/linkedIn.jpg){width = 200; height = 200}](https://www.linkedin.com/in/rémi-deschamps)
   [![img_contact_facebook](./img/facebook.png)](https://www.facebook.com/remi.deschamps.9)
 
 <!---
