@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a permanent contract or work-study contract for integer the 3rd years of bachelor in web engineering in date of 10/01/2024.
 - 📫 How to reach me remideschamps2662@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i like cat and coffee! 🐈🐱‍👤🙀
+- ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
 
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
