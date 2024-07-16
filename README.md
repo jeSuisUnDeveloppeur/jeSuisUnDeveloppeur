@@ -8,9 +8,7 @@
   ### Connect with me :
   [![img_contact_linkedIn](./img/linkedIn.jpg)](https://www.linkedin.com/in/rémi-deschamps)
   [![img_contact_facebook](./img/facebook.png)](https://www.facebook.com/remi.deschamps.9)
-
   ---
-
   
 
 <!---
