@@ -9,7 +9,7 @@
   ### Connect with me :
 
 <table>
-  <tr>
+  <tr style="border: none;">
     <td>
       <a href="https://www.linkedin.com/in/rémi-deschamps">
         <img src="./img/linkedIn.svg" alt="contact linked in" width="40"/>
