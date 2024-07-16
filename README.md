@@ -8,14 +8,23 @@
 
 ### Connect with me :
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rémi-deschamps" style="margin-right: 20;">
-    <img src="./img/linkedIn.svg" alt="contact linked in" width="60">
-  </a>
-  <a href="https://www.facebook.com/remi.deschamps.9" style="margin-left: 20;">
-    <img src="./img/facebook.jpg" alt="contact facebook" width="60">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/rémi-deschamps">
+        <img src="./img/linkedIn.svg" alt="contact linked in" width="40">
+      </a>
+    </td>
+    <td width="40"> <!-- Espace entre les images -->
+    </td>
+    <td>
+      <a href="https://www.facebook.com/remi.deschamps.9">
+        <img src="./img/facebook.jpg" alt="contact facebook" width="40">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
   ---
   
