@@ -7,6 +7,7 @@
 - ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
   ### Connect with me :
   [![img_contact](./img/linkedIn.jpg)](https://www.linkedin.com/in/rémi-deschamps)
+  [![img_contact](./img/facebook.png)](https://www.facebook.com/remi.deschamps.9/?locale=fr_FR)
 
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
