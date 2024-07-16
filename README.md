@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rémi-deschamps" style="margin-right: 20px;">
-    <img src="./img/linkedIn.svg" alt="contact linked in" width="40">
+    <img src="./img/linkedIn.svg" alt="contact linked in" width="100">
   </a>
   <a href="https://www.facebook.com/remi.deschamps.9" style="margin-left: 20px;">
     <img src="./img/facebook.jpg" alt="contact facebook" width="40">
