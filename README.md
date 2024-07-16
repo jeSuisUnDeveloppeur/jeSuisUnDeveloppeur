@@ -10,9 +10,7 @@
 
 <a href="https://www.linkedin.com/in/rémi-deschamps"><img src="./img/linkedIn.svg" alt="LinkedIn" width="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/remi.deschamps.9"><img src="./img/facebook.jpg" alt="Facebook" width="50"></a>
-
-  ---
-  
+  --- 
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
