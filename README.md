@@ -8,7 +8,7 @@
   
   ### Connect with me :
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td>
       <a href="https://www.linkedin.com/in/rémi-deschamps">
