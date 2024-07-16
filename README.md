@@ -9,7 +9,7 @@
 ### Connect with me :
 
 <a href="https://www.linkedin.com/in/rémi-deschamps">
-  <img src="./img/linkedIn.svg" alt="LinkedIn" width="40">
+  <img src="./img/linkedIn.svg" alt="LinkedIn" width="60">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adding spaces here -->
 <a href="https://www.facebook.com/remi.deschamps.9">
   <img src="./img/facebook.jpg" alt="Facebook" width="40">
