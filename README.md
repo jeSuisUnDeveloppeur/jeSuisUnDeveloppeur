@@ -13,7 +13,7 @@
     <img src="./img/linkedIn.svg" alt="contact linked in" width="60">
   </a>
   <a href="https://www.facebook.com/remi.deschamps.9" style="margin-left: 20;">
-    <img src="./img/facebook.jpg" alt="contact facebook" width="60">
+    <img src="./img/facebook.jpg" alt="contact facebook" width="40">
   </a>
 </div>
 
