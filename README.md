@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like cats and coffee! 🐈🐱‍👤🙀
   ### Connect with me :
-  [![img_contact_linkedIn](./img/linkedIn.jpg){width = 200; height = 200}](https://www.linkedin.com/in/rémi-deschamps)
-  [![img_contact_facebook](./img/facebook.png)](https://www.facebook.com/remi.deschamps.9)
+  [![img_contact_linkedIn](./img/linkedIn.jpg)](https://www.linkedin.com/in/rémi-deschamps)
+  [![img_contact_facebook](./img/facebook.png)]{width = 200; height = 200}(https://www.facebook.com/remi.deschamps.9)
 
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
