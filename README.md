@@ -13,6 +13,7 @@
 
 ### In training:
 <img src="./img/symfony.png" alt="logo symfony" width="80px"/>
+<img src="./img/react.svg.png" alt="logo react" width="80px"/>
 
 
   --- 
