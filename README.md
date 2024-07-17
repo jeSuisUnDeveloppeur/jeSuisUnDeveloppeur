@@ -12,8 +12,7 @@
 [![Facebook](./img/facebook.jpg)](https://www.facebook.com/remi.deschamps.9) 
 
 ### In training:
-<img src="./img/symfony.png" alt="logo symfony" width="80px"/>
-<img src="./img/React-icon.svg.png" alt="logo react" width="80px"/>
+<img src="./img/symfony.png" alt="logo symfony" width="80px"/> <img src="./img/React-icon.svg.png" alt="logo react" width="80px"/>
 
 
   --- 
