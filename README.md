@@ -12,7 +12,7 @@
 [![Facebook](./img/facebook.jpg)](https://www.facebook.com/remi.deschamps.9) 
 
 ### In training:
-![Symfony](./img/symfony.png)
+<img src="./img/symfony.png" alt="logo symfony" width="64px"/>
 
 
   --- 
