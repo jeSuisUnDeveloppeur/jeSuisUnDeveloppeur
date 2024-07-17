@@ -13,9 +13,9 @@
 
 ### In training:
 <img src="./img/symfony.png" alt="logo symfony" width="80px"/> <img src="./img/React-icon.svg.png" alt="logo react" width="80px"/>
-
-
-  --- 
+---
+### my skills and tools:
+<img src="./img/logo_html5.png" alt="logo html5" width="80px"/> <img src="./img/logo_css3.png" alt="logo react" width="80px"/><img src="./img/logo_js.png" alt="logo JS" width="80px"/> <img src="./img/logo_php.png" alt="logo react" width="80px"/>
 <!---
 jeSuisUnDeveloppeur/jeSuisUnDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
