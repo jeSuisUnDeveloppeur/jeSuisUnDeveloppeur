@@ -11,6 +11,8 @@
 [![LinkedIn](./img/linkedIn.svg)](https://www.linkedin.com/in/rémi-deschamps) 
 [![Facebook](./img/facebook.jpg)](https://www.facebook.com/remi.deschamps.9) 
 
+### My stack :
+
 
   --- 
 <!---
